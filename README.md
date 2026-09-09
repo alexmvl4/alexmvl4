@@ -5,7 +5,7 @@
   Culiacán, Sinaloa, México
 </p>
 
-<p align="center">
+<!--- <p align="center">
   <a href="https://linkedin.com/in/alexisabelmartval">
     <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="28" height="28" alt="LinkedIn"/>
   </a>
@@ -13,7 +13,7 @@
   <a href="mailto:alexisvalenzuelapersonal@hotmail.com">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" width="28" height="28" alt="Email"/>
   </a>
-</p>
+</p> --->
 
 ---
 
