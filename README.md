@@ -17,7 +17,7 @@
 
 ---
 
-Desarrollador full-stack con más de 3 años construyendo sistemas académicos para miles de usuarios.
+Desarrollador full-stack con más de 3 años construyendo sistemas para miles de usuarios.
 <br/>
 <sub>Full-stack developer</sub>
 
