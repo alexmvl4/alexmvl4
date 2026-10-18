@@ -19,13 +19,7 @@
 
 Desarrollador full-stack con más de 3 años construyendo sistemas académicos para miles de usuarios.
 <br/>
-<sub>Full-stack developer with 3+ years building academic systems serving thousands of users.</sub>
-
-- 🔧 Migración de un sistema legacy a un stack moderno **sin interrumpir la operación**.
-- 🔐 APIs REST con **RBAC, ACL y 2FA** sobre Spring Security.
-- 🧩 Plataformas compartidas de componentes reutilizadas por varios productos.
-- ⚡ **GraphQL federado**: DataLoader contra N+1, autorización por campo, límites de profundidad y complejidad.
-- 🐹 **Go** para sistemas concurrentes: rate limiting distribuido, backpressure, circuit breakers.
+<sub>Full-stack developer</sub>
 
 ---
 
