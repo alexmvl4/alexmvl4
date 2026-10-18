@@ -1,7 +1,7 @@
 <h1 align="center">Alexis Abel Martínez Valenzuela</h1>
 
 <p align="center">
-  <strong>Full-Stack Developer</strong> · Java · Spring Boot · TypeScript · GraphQL<br/>
+  <strong>Full-Stack Developer</strong> · PHP · Laravel · Java · Spring Boot · TypeScript · GraphQL · Angular ·<br/>
   Culiacán, Sinaloa, México
 </p>
 
